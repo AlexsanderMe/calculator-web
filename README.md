@@ -2,7 +2,9 @@
 
 This is a simple and user-friendly calculator web application built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations and displays a history of operations at the bottom.
 
-![Calculator Interface](./screenshot/screen.jpg)
+<div align='left'>
+    <img src='./screenshot/screen.jpg' title='Calculator Interface' height='450px' />
+</div>
 
 ## Features
 
