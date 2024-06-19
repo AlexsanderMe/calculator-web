@@ -57,12 +57,6 @@ calculator-web
 - **Delete Button (`DEL`)**: Click to delete the last digit entered.
 - **Decimal Button (`.`)**: Click to add a decimal point to the number.
 
-## Screenshots
-
-Here's how the calculator interface looks:
-
-![Calculator Interface](./screenshot/screen.jpg)
-
 ## Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
